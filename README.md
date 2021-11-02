@@ -7,7 +7,10 @@ Currently I study Computer Science and I'm in the 2nd year.
 ### Contact:
 [![Meu perfil do linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lopes-arantes/)
 
+
+### Extra pins:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslopesx&repo=nlw-heat-node&theme=midnight-purple)](https://github.com/lucaslopesx/nlw-heat-node)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslopesx&repo=unifenas-repo&theme=midnight-purple)](https://github.com/lucaslopesx/unifenas-repo)
 
 <!--
 
