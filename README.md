@@ -1,7 +1,7 @@
 ### Hi there, My name’s Lucas Lopes Arantes 👋
 - 📚 I’m currently studying Computer Science and I’m in the 2nd year.
 - 🔭 I’m currently open to work 😄
-- 🌊 I’m currently deeping in learning front-end development.
+- 🌊 I’m currently deeping in learning software development.
 
 ### Contact:
 [![Meu perfil do linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lopes-arantes/)
