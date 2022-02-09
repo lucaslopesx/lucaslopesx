@@ -9,6 +9,7 @@
 
 ### Extra pins:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslopesx&repo=estoque-projeto-integradora&theme=midnight-purple)](https://github.com/lucaslopesx/estoque-projeto-integradora)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslopesx&repo=FinAPI&theme=midnight-purple)](https://github.com/lucaslopesx/FinAPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslopesx&repo=nlw-heat-node&theme=midnight-purple)](https://github.com/lucaslopesx/nlw-heat-node)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslopesx&repo=unifenas-repo&theme=midnight-purple)](https://github.com/lucaslopesx/unifenas-repo)
 
