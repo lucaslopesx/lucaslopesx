@@ -2,7 +2,6 @@
 - 📚 I am in the final year of my computer science degree program.
 - 🔭 I’m currently working at PhdSoft ( A company focused in the development of Web Digital Twin )
 - 🌊 I’m currently diving in learning software development.
-- 📫 How to reach me: lucas.lopesx1@gmail.com
 
 ### Contact:
 [![Meu perfil do linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lopes-arantes/)
