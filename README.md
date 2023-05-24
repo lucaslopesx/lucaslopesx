@@ -1,9 +1,8 @@
-### Hi there, My name’s Lucas Lopes Arantes 👋
-- 📚 I am in the final year of my computer science degree program.
-- 🔭 I’m currently working at PhdSoft ( A company focused in the development of Web Digital Twin )
-- 🌊 I’m currently diving in learning software development.
-
-### Contact:
+### Greetings! I'm Lucas Lopes Arantes 👋
+- 🎓 Final year Computer Science student.
+- 🔭 Working at PhdSoft, focused on Web Digital Twin technology.
+- 💻 Always learning more about software development.
+### Let's Connect:
 [![Meu perfil do linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lopes-arantes/)
 
 <!--
