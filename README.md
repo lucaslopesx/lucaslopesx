@@ -1,5 +1,5 @@
 ### Greetings! I'm Lucas Lopes Arantes 👋
-- 🎓 Bachelor's in Computer Science.
+- 🎓 Bachelor's degree in Computer Science.
 - 🔭 Working at PhdSoft, focused on Web Digital Twin technology.
 - 💻 Always learning more about software development.
 ### Let's Connect:
